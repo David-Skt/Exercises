@@ -1,0 +1,2 @@
+# Exercises
+Estudos sobre programação 
